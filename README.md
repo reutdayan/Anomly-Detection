@@ -1,4 +1,4 @@
-# Anomaly-Detector-time-Series
+# Anomaly-Detector-Time-Series
 A C++ project as part of Advanced Programming 1 course at Bar Ilan University.
 Implements Anomaly Detector:
 1.	Learn - receive data,learn it by inserting it into database and analyzing it.
